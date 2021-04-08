@@ -1,0 +1,23 @@
+.form {
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.submit {
+  background-color: #adc178 !important;
+  border: none !important;
+}
+
+.form-label {
+  font-size: 25px;
+  font-weight: 600 !important;
+  color: #adc178;
+}
+
+.name-group, .score-group {
+  width: 50%;
+  margin-right: 20px;
+}

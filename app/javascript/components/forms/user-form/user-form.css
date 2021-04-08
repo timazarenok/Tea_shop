@@ -1,0 +1,23 @@
+.log-btn {
+  background-color: #adc178 !important;
+}
+
+.log-form {
+  position: absolute;
+  width: 500px;
+  padding: 50px 100px;
+  margin-left: 35%;
+  margin-top: 10%;
+  z-index: 1;
+}
+
+.back-img {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("oblozhka.jpg");
+  height: 895px;
+  width: 100%;
+}

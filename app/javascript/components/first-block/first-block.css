@@ -1,0 +1,33 @@
+.first-block {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("chai.jpg");
+  height: 500px;
+  width: 100%;
+}
+
+.information {
+  display: block;
+  position: absolute;
+  width: 600px;
+  text-align: center;
+  margin-left: 15%;
+  margin-top: 210px;
+}
+
+.title {
+  color: white;
+  font-size: 45px !important;
+}
+
+.title .title-green {
+  color: #adc178;
+}
+
+.description {
+  color: white;
+  font-size: 20px !important;
+}

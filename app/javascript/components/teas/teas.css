@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+  width: 90%;
+  margin: auto;
+}
+
+ul li {
+  display: inline-block;
+  width: 450px;
+  height: 550px;
+  margin: 20px;
+}

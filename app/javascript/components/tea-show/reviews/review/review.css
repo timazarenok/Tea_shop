@@ -1,0 +1,25 @@
+.review-li {
+  height: auto;
+  width: 500px;
+  display: inline-block;
+  border: 3px solid #adc178;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+
+.review-name {
+  font-size: 23px;
+  font-weight: 600 !important;
+  color: #adc178 !important;
+}
+
+.review-description {
+  font-size: 16px;
+}
+
+.review-score {
+  font-size: 20px;
+  font-weight: 600 !important;
+  color: #adc178 !important;
+}

@@ -1,0 +1,49 @@
+.card {
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 255, .2);
+  width: inherit;
+  height: inherit;
+}
+
+.card-img {
+  height: 350px;
+}
+
+.card-text {
+  font-size: 15px !important;
+}
+
+.card-title {
+  font-weight: 600 !important;
+  color: #adc178
+}
+
+.price {
+  color: #adc178 !important;
+  font-weight: 600 !important;
+  font-size: 20px !important;
+}
+
+a {
+  text-decoration: none !important;
+  font-weight: bold;
+  color: white !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+  font-weight: bold;
+  color: white !important;
+}
+
+.more-btn {
+  background-color: #adc178 !important;
+  border: none !important;
+}
+
+.delete-btn {
+  margin-top: 3px;
+  background-color: red !important;
+  border: none !important;
+}

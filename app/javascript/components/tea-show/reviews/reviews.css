@@ -1,0 +1,13 @@
+.reviews {
+  display: block;
+  list-style: none;
+  width: 1200px;
+}
+
+.review-title {
+  font-size: 25px;
+  width: 1000px;
+  margin: auto;
+  font-weight: 600 !important;
+  color: #adc178;
+}

@@ -1,0 +1,20 @@
+.tea-form {
+  padding-top: 50px;
+  width: 500px;
+  margin: auto;
+}
+
+.back-img {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../forms/user-form/oblozhka.jpg");
+  height: 895px;
+  width: 100%;
+}
+
+.submit {
+  font-weight: 600;
+}
